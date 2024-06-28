@@ -1,4 +1,5 @@
-![AWS Data Pipeline](image-3.png)
+![image](https://github.com/mediumhust/pipeline/assets/38267919/633edd8b-1038-4d77-9910-1e66183c3904)
+
 
 Project Credit: João Pedro
 
